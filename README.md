@@ -1,4 +1,5 @@
-#Sistema de Gestión de Soporte Técnico
+🛠️ Sistema de Gestión de Soporte Técnico
+
 Diseño e implementación de base de datos relacional en MySQL Workbench. Proyecto académico en desarrollo (Etapa 2 de 4).
 
 📋Requerimientos de Negocio (Fase 1)
