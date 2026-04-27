@@ -6,7 +6,7 @@ MODIFICACIONES
   
   Estudiante:
   Génesis Cordero Corea
-  Cedula: 117300049
+  
 
 NOTAS
 - Se usa INT como llave primaria por diferentes razones:
